@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketplaceApi.Application"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketplaceApi.Infrastructure.Data", "MarketplaceApi.Infrastructure.Data\MarketplaceApi.Infrastructure.Data.csproj", "{8029F617-6323-40C1-B6DE-55B81DE91EAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketplaceApi.Infrastructure.IoC", "MarketplaceApi.Infrastructure.IoC\MarketplaceApi.Infrastructure.IoC.csproj", "{B2B8931F-F546-454D-9DE7-D747B1D4B430}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{8029F617-6323-40C1-B6DE-55B81DE91EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8029F617-6323-40C1-B6DE-55B81DE91EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8029F617-6323-40C1-B6DE-55B81DE91EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B8931F-F546-454D-9DE7-D747B1D4B430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B8931F-F546-454D-9DE7-D747B1D4B430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B8931F-F546-454D-9DE7-D747B1D4B430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B8931F-F546-454D-9DE7-D747B1D4B430}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
